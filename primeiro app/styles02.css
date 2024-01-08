@@ -1,5 +1,8 @@
 main{
+    margin: 0;
+    padding: 0;
     width: 100vw;
     height: 100vh;
-    background: #f5d2d4;
+    background: #f5d2a4;
+
 }
